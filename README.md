@@ -34,7 +34,7 @@ Forking-Workflow is one way to collaborate with git.
 ### Forking-workflow
 
 1. Before starting work, please pull the upstream repository first.
-  - `git pull upstream master`
+  - `git pull upstream main`
 2. Work in the branch you added.
   - you can change current branch by `git checkout branch_name`.
 3. After finishing work, push your work to your origin repository.

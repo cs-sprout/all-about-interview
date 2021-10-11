@@ -12,7 +12,7 @@ We study data structure, algorithm, and programmning problems
 2. `Commit` the solutions to each member's remote repository. (@member_id/all-about-interview)
 3. Create a `Pull Request` to the upstream repository (cs-sprout/all-about-interview)
 4. `Review` the code pull requested by other members.
-5. After review, `Merge the code to the upstream repository.
+5. After review, `Merge` the code to the upstream repository.
 
 ## How to collaborate with a 'Forking-Workflow'
 

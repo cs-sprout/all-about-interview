@@ -1,12 +1,12 @@
 # all-about-interview
 
-study data structure, algorithm, and programmning problems
+We study data structure, algorithm, and programmning problems
 
 ## Book
 
 `Cracking the coding interview` written by Gayle Laakmann McDowell
 
-## what we're going to do together
+## What we're going to do in this study
 
 1. `Solve` the problems in each chapter of the book.
 2. `Commit` the solutions to each member's remote repository. (@member_id/all-about-interview)
@@ -14,7 +14,9 @@ study data structure, algorithm, and programmning problems
 4. `Review` the code pull requested by other members.
 5. After review, `Merge the code to the upstream repository.
 
-## How to collaborate with a forking-workflow
+## How to collaborate with a 'Forking-Workflow'
+
+Forking-Workflow is one way to collaborate with git.
 
 ### Pre-requsite
 
@@ -43,3 +45,8 @@ study data structure, algorithm, and programmning problems
   - Read the code and add comments, questions or suggestions etc.
 7. After checking the review, edit the code if you need.
 8. Merge the code to the upstream repository.
+
+### Reference
+
+- [English Reference](https://www.atlassian.com/git/tutorials/comparing-workflows/forking-workflow)
+- [Korean Reference](https://andamiro25.tistory.com/193)
